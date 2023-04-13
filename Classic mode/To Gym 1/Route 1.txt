@@ -1,0 +1,14 @@
+items:
+- Potion 		(Pokemart employee)
+- Oran berry 	(Patch to the left of Lass Mimi)
+
+
+Trainer battles:
+Lass mimi:
+- Pidgey
+ - Normal Flying
+ - Lv. 4
+ - (Ability?)
+  - Tackle
+
+

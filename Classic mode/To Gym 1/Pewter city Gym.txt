@@ -1,0 +1,51 @@
+Type:
+- Rock
+
+Gym Leader:
+- Brock
+ - Geogey: Geodude + Pidgey
+  - Rock Flying
+  - Lv. 9
+  - (Ability?)
+   - Rock Polish
+   - Sand Attack
+   - Gust
+   - Rock Tomb
+ - Dignix: Diglett + Onix
+  - Rock Ground
+  - Lv. 12
+  - (Ability?)
+   - Bind
+   - Dig
+   - Rock Tomb
+   - Rage (?)
+
+
+Gym trainers:
+- Lass Myriam 	(Rightmost gym trainer)
+ - Georan: Geodude + Nidoran (Female)
+  - Rock Poison
+  - Lv. 9
+  - (Ability?)
+   - Rock Polish
+   - Double Kick
+   - Tail Whip
+   - Mud Sport
+
+- Camper Liam 	(Leftmost gym trainer)
+ - Geopie: Geodude + Caterpie
+  - Rock Bug
+  - Lv. 7
+  - (Ability?)
+   - Tackle
+   - Mud Sport
+   - Defense curl
+   - Rock Polish
+ - Sandude: Sandshrew + Geodude
+  - Rock Ground
+  - Lv. 7
+  - (Ability?)
+   - Poison Sting
+   - Defense curl
+   - Rock Polish
+   - Sand Attack

@@ -1,0 +1,45 @@
+items:
+- Potion 		(On top of the hill)
+- Pecha Berry 	(Far Left)
+- Potion 		(Path past the berry trees)
+
+Boss battles:
+- Blue (Pre gyms)
+ - Nidogey: Nidoran (male) + Pidgey
+  - Flying Poison
+  - Lv. 7
+  - (Ability?)
+   - Focus Energy
+   - Sand Attack
+   - Leer
+   - Peck
+ - Starter Pokemon
+  -Lv. 8
+ 
+
+
+Trainer battles:
+- Youngster Pat
+ - Speargey: Pidgey + Spearow
+  - Flying
+  - Lv. 7
+  - (Ability?)
+   - Peck
+   - Leer
+   - Growl
+   - Sand Attack
+
+- Youngster Mustafa
+ - Pidgey
+  - Normal Flying
+  - Lv. 4
+  - (Ability?)
+   - Tackle
+ - Ratpie: Rattata + Caterpie
+  - Normal Bug
+  - Lv. 4
+  - (Ability?)
+   - Tackle
+   - String Shot
+   - Quick Attack
+   - Tail Whip

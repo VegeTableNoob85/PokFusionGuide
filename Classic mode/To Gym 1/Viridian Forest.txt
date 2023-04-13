@@ -1,0 +1,60 @@
+Items:
+- Poke Ball 	(Bottom right)
+- Antidote 		(Bottom left)
+- Potion  		(Middle left)
+
+
+Trainer Battles:
+- Youngster Sean
+ - Metauna: Metapod + Kakuna
+  - Bug Poison (?)
+  - Lv. 8
+  - Shed Skin
+   - Harden
+
+- Bug catcher Jim
+ - Caterpie
+  - Bug
+  - Lv. 7
+  - (Ability?)
+   - Tackle
+   - String Shot
+ - Weeran: Weedle + Nidoran(Female)
+  - Bug Poison
+  - Lv. 7
+  - Poison point
+   - Scratch
+   - Poison sting
+   - Tail whip
+ - Caterpie
+  - Bug
+  - Lv. 7
+  - (Ability?)
+   - Tackle
+   - String Shot
+
+- Bug catcher Rick
+ - Weedle
+  - Bug Poison
+  - Lv. 6
+  - (Ability?)
+   - String Shot
+   - Poison Sting
+ - Caterbat: Caterpie + Zubat
+  - Bug Flying (?)
+  - Lv. 6
+  - (Ability?)
+   - Absorb
+   - Tackle
+   - String Shot
+   - Supersonic
+
+- Bug catcher Lana
+ - Catergey: Caterpie + Pidgey
+  - Bug Flying
+  - Lv. 8
+  - (Ability?)
+   - Tackle
+   - Sand Attack
+   - String Shot
+   - Gust / Bug Bite (?)
