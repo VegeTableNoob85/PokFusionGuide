@@ -1,0 +1,67 @@
+Pokemon inf fusion boss battle teams normal mode:
+? = niet zeker
+
+Blue (route 22 1st time)
+- nidoran(male) + pidgey
+	-poison flying
+	-Lv. 7
+- starter pokmon (verschilt in random runs)
+	-Lv. 8
+
+Brock:
+- geodude + pidgey
+	-rock flying 
+	-Lv. 9?
+- diglett + onix
+	-rock ground
+	-Lv. 12
+
+Blue (nugget bridge):
+- nidorino + pidgeotto
+	-poison flying
+	-Lv. 18?
+- starter pokmon 
+	-Lv. 18?
+- rattata + mankey
+	-normal fighting
+	-Lv. 16?
+- abra (+ staryu?)
+	-psychic (water?)
+	-Lv. 16?
+
+Misty:
+- jigglypuff + goldeen
+	-water normal
+	-Lv. 19?
+- oddish + starmie
+	-water grass
+	-Lv. 20
+
+Blue (SS Anne):
+- nidorino + pidgeotto
+	-poison flying
+	-Lv. ?
+- starter pokmon
+	-Lv. ?
+- mankey raticate
+	-normal fighting
+	-Lv. ?
+- staryu + kadabra
+	-psychic water
+	-Lv. ?
+
+Lt. Surge:
+- voltorb + krabby
+	-electric water
+	-Lv. 24?
+- pikachu + diglett
+	-electric ground
+	-Lv. 24?
+- Raichu + electabuzz
+	-electric
+	-Lv. 26
+
+Giovanni:
+
+Erika:
+
