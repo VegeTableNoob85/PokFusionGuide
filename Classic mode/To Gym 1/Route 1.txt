@@ -8,7 +8,7 @@ Lass mimi:
 - Pidgey
  - Normal Flying
  - Lv. 4
- - (Ability?)
+ - Ability: Tangled Feet
   - Tackle
 
 
