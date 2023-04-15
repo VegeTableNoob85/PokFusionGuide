@@ -16,3 +16,4 @@ Trainer battles:
    - Bite
    - Growl
    - ?
+Hi
