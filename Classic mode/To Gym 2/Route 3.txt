@@ -1,0 +1,18 @@
+Trainer battles:
+- Youngster Ben
+ - Pidtata: Pidgey + Rattata
+  - Normal Flying
+  - Lv. 11
+  - (Ability?)
+   - Gust
+   - Focus Energy
+   - Bite
+   - ?
+- Bug catcher Sally
+ - Meowdle: Meowth + Weedle
+  - Normal Bug
+  - Lv. 10
+  - Ability: Technician?
+   - Bite
+   - Growl
+   - ?
