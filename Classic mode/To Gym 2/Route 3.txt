@@ -8,6 +8,7 @@ Trainer battles:
    - Focus Energy
    - Bite
    - ?
+   
 - Bug catcher Sally
  - Meowdle: Meowth + Weedle
   - Normal Bug
@@ -16,3 +17,31 @@ Trainer battles:
    - Bite
    - Growl
    - ?
+   
+- Bug Catcher
+
+- Bug Catcher
+
+- Youngster Calvin
+
+- Lass Janice
+ - Spearow
+  - Normal Flying
+  - Lv. 10
+  - (Ability?)
+   - Leer
+   - Peck
+   - Pursuit
+   - Growl
+ - Pikaran: Pikachu + Nidoran (Female)
+  - Electric Poison
+  - Lv. 12
+  - Ability: Static
+   - Tail Whip
+   - Double Kick
+   - Quick Attack
+   - Play Nice
+
+- Bug Catcher
+
+- Lass
